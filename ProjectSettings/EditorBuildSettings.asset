@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/mainMenu.unity
+    guid: 988e332a0760b1d46ace4d554c7c2eae
+  - enabled: 1
     path: Assets/Scenes/painful.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    guid: ce5eb3ca79c1914469dd3cdbf5b70108
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

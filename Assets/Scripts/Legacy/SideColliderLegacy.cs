@@ -1,12 +1,13 @@
 using UnityEngine;
 
-public class SideCollider : MonoBehaviour
+public class SideColliderLegacy : MonoBehaviour
 {
     public Transform followTarget;
 
     public ContactFilter2D ContactFilter;
 
     public float offsetX;
+
     public bool mapCollide = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

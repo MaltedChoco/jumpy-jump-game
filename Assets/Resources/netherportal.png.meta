@@ -1,0 +1,3714 @@
+fileFormatVersion: 2
+guid: 3769428bef5eca3408abafa8a2867351
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: netherportal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4480
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35825c0e00f5b31419b8f492ab2d599a
+      internalID: -1410832856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_1
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 4480
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049b5c3a154cb46409b1427f18ed2d81
+      internalID: -1978541976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_2
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 4480
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedfa4ab7d79df546a8b5d68a09aca9a
+      internalID: -812031489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_3
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 4480
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe009e410705a7e4face24a9f7a1d787
+      internalID: -794988857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_4
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 4480
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76444e5f150063940968409bd1f90ca4
+      internalID: 1748694231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_5
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 4480
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a94f18b5024f4640ac63ed5fae33ba2
+      internalID: 1095214380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_6
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 4480
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db0861740cf73f49b8c7a4b2d081d32
+      internalID: 916288675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_7
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 4480
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a6277e5bd5acd42b7d11c473500efe
+      internalID: -1580539165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_8
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 4480
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e0da1bff7fa3042aea63342737b685
+      internalID: -680996226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_9
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 4480
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50578ae2e805964b8ad6a008caddceb
+      internalID: 356182939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_10
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 4480
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e3bbb3a6bbd1443898f2d2b99f2172
+      internalID: 245227504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_11
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 4480
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5594c4ab54c3db345863d324406d9d18
+      internalID: -1776897399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_12
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 4480
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0976be986c62d5f409048cab398ba658
+      internalID: -1569455835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_13
+      rect:
+        serializedVersion: 2
+        x: 6630
+        y: 4480
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa42755e00acd6e40bf067d6c982262f
+      internalID: -1876891234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_14
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 4480
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cf9ac46f9dbff47919d53b7417346d
+      internalID: 1857122403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_15
+      rect:
+        serializedVersion: 2
+        x: 7650
+        y: 4480
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74979b03b1639247bee998defe5eb99
+      internalID: 250565457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_16
+      rect:
+        serializedVersion: 2
+        x: 8160
+        y: 4480
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d56869af8367e4ca38fb9f41e2c3e4
+      internalID: 196337999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_17
+      rect:
+        serializedVersion: 2
+        x: 8670
+        y: 4480
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04127156585e3764298faa96e968dfc0
+      internalID: -1952372247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_18
+      rect:
+        serializedVersion: 2
+        x: 9180
+        y: 4480
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df6ee2333f65b74393fdbeda9f074cb
+      internalID: -505496587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_19
+      rect:
+        serializedVersion: 2
+        x: 9690
+        y: 4480
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b81fea880b67784393ca7fa99032829
+      internalID: 875056231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df401b98aec8624d95e03ba37e97460
+      internalID: -360146018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_21
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 3840
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131ac5ab17139f848a7447cbe1545e43
+      internalID: -865236678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_22
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3840
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e197678e8a5b7ff4891a4178a09116d6
+      internalID: 816519804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_23
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 3840
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590caef94a443244e80abbc9ae5e9560
+      internalID: -608013991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_24
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 3840
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647b02f31937fe540923580a80edf0bf
+      internalID: 1992668975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_25
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 3840
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e28640b158d7f4ab2de6606b23a8ac
+      internalID: -989247728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_26
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3840
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e87248cd23287b46ae05964e9365705
+      internalID: -497709626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_27
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 3840
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214385922c4220948ab3e1c5d8de63df
+      internalID: 34114477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_28
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 3840
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1283bcbe6b87b5849876e8ce1445db7b
+      internalID: 619823007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_29
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 3840
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563a4210dfef53b47b7df541438e81e2
+      internalID: 1152733675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_30
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 3840
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723f8ce4d5deab14685af75730e5f2ec
+      internalID: 46382155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_31
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 3840
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4e1d6d34364a3498c974c25c24acdb
+      internalID: 1073680145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_32
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 3840
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b9124ffd0d81945ae77c93d0d2d34a
+      internalID: 2129186472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_33
+      rect:
+        serializedVersion: 2
+        x: 6630
+        y: 3840
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f39fbf81fc521e4796c9949d2199b81
+      internalID: -340512102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_34
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 3840
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126fc075bb11e5c45966e84cf5daeccd
+      internalID: 363989584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_35
+      rect:
+        serializedVersion: 2
+        x: 7650
+        y: 3840
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872b2269abf367d478422519a26b7552
+      internalID: -1357112013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_36
+      rect:
+        serializedVersion: 2
+        x: 8160
+        y: 3840
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be002ca59e998d4296d7fc0ca4a8808
+      internalID: 156704437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_37
+      rect:
+        serializedVersion: 2
+        x: 8670
+        y: 3840
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e6e2cba91e84e48af4c59ff0af444a
+      internalID: 689859416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_38
+      rect:
+        serializedVersion: 2
+        x: 9180
+        y: 3840
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eafa0e9a5b26184ba58e3dcf1d2457f
+      internalID: -707835622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_39
+      rect:
+        serializedVersion: 2
+        x: 9690
+        y: 3840
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2dc472f210ff64a8b8a0bbd283280f
+      internalID: 518856485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329e8a90072c9c848b19e3c22d55e738
+      internalID: -1563950587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_41
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 3200
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ed0a478ce89ac4e960370491780dae
+      internalID: -2055850205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_42
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3200
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ab339d03ade514ca8e97a4860280ed
+      internalID: -1186602831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_43
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 3200
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4987a7e060c01a40a51cbfa93e1037a
+      internalID: 1879277250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_44
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 3200
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028677d4836050b4e8e5de90b2825599
+      internalID: 298122133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_45
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 3200
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b99c867d8936f40bf606d4b7ab45f1
+      internalID: 622249786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_46
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3200
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196592a7e146525459ceb6ac685a8394
+      internalID: -185461044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_47
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 3200
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd583e8552d4b664fab47efeb51b7640
+      internalID: 706329158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_48
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 3200
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98af9e8d064420b478680bee93928771
+      internalID: -1928902873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_49
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 3200
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c943b0cd28322746a8990c19003fb6e
+      internalID: -1700208549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_50
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 3200
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6ef0f26f9e09c46b8398f0bbd38da3
+      internalID: 506541934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_51
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 3200
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1c6926e3d989b40b3943cf05dfc8cb
+      internalID: -1384001423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_52
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 3200
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59cda65fce5e5f4d84c90319d884d3c
+      internalID: 1714206734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_53
+      rect:
+        serializedVersion: 2
+        x: 6630
+        y: 3200
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31963bfdd6c53754a86de84ca40554c1
+      internalID: -934738254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_54
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 3200
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1724f52a0e63d0844b632ab0ad4a53a2
+      internalID: 491283443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_55
+      rect:
+        serializedVersion: 2
+        x: 7650
+        y: 3200
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe7b9f98ae08534abcca3a8e9cb0e17
+      internalID: 1280733066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_56
+      rect:
+        serializedVersion: 2
+        x: 8160
+        y: 3200
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40be6e1c3ae55d04db17a8f5a0bee1dd
+      internalID: -2049287276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_57
+      rect:
+        serializedVersion: 2
+        x: 8670
+        y: 3200
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f950b9132444ea4b892b921ac580741
+      internalID: -25594519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_58
+      rect:
+        serializedVersion: 2
+        x: 9180
+        y: 3200
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3104a10aa9c42dd47986d1da1a3c91e6
+      internalID: 1255424295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_59
+      rect:
+        serializedVersion: 2
+        x: 9690
+        y: 3200
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c52127b1f13ad4b9b9bfcd1e4eac12
+      internalID: 1968932083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcf5089ca8c7e042b89c543e18e6305
+      internalID: 257996504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_61
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2560
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef6d2edb07317a42821d78c430b9ef4
+      internalID: -1257065806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_62
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2560
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f9c708eb8e3cc469465cc31dacffb2
+      internalID: -2010203563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_63
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2560
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33e3c5ea5c79c64795a9fb3b79492c5
+      internalID: -822032280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_64
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2560
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbc05a2adb50154aad00c471ce9dd38
+      internalID: -828499405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_65
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 2560
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c17181cf33705f4891eee01da699111
+      internalID: -46730168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_66
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2560
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b095b0b7ab2e66479dcb3e66c8e67b8
+      internalID: -1388733898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_67
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 2560
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ad53c7499903942b1421b3c148a6ea
+      internalID: 898241495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_68
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 2560
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9099a64612e2e5d40abb25227ba9ce62
+      internalID: -1983257437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_69
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 2560
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc245dc4c75c3e4cbc0614502be09d0
+      internalID: 2052164526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_70
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 2560
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d307160a7f14c4c83cd4731c51d726
+      internalID: -1386483510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_71
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 2560
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6aa4aa3a8f406e4dbec1682abef1dee
+      internalID: -29224483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_72
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 2560
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19040dc9ac810d545bfa4964150d4ade
+      internalID: 2039259863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_73
+      rect:
+        serializedVersion: 2
+        x: 6630
+        y: 2560
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e314cde722dea3499ef6dc4dd999c33
+      internalID: -31870398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_74
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 2560
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e205a4cf1201a894f980c7bfe3c1938e
+      internalID: 1615897146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_75
+      rect:
+        serializedVersion: 2
+        x: 7650
+        y: 2560
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a1ab5feb3b3144b918cc68181c1259
+      internalID: -1094537345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_76
+      rect:
+        serializedVersion: 2
+        x: 8160
+        y: 2560
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8571f08e1fd314bbcbafb6ba8d2118
+      internalID: 25793119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_77
+      rect:
+        serializedVersion: 2
+        x: 8670
+        y: 2560
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b60f2e688f21340af926a53c46357c
+      internalID: 1717405847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_78
+      rect:
+        serializedVersion: 2
+        x: 9180
+        y: 2560
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b3d9c2eaf82984b946f4e75a8497e5
+      internalID: -1282681714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_79
+      rect:
+        serializedVersion: 2
+        x: 9690
+        y: 2560
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06669ff71e9970648ac61d8da4178090
+      internalID: 109995051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8eaa38fae329845ae2085ddadc1c84
+      internalID: 2002592050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_81
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1920
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3560a67227e57a547a0222bf0c231d8e
+      internalID: 1001313582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_82
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1920
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab72ec5925d23f4da0ad0044c0c9322
+      internalID: -2114465915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_83
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1920
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3099d5ef13593f04aa4b6cf7106314e4
+      internalID: -1574680923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_84
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1920
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2927ed92a0aef40a5fe266a9b1422c
+      internalID: 1848580308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_85
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 1920
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2eaa99c5c3d4bf4aa726afe64df1839
+      internalID: -573001224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_86
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1920
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5668c0b7bf16f344bb881be579c0c227
+      internalID: -1980947198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_87
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 1920
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b7dcd413df3444480e05310b256c85
+      internalID: -672451667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_88
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 1920
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee752cb61dc21e4c8d86c4ad1ae8f7a
+      internalID: -826906229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_89
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 1920
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7fa7fedadbe4e419669e542700cb02
+      internalID: -5449509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_90
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 1920
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b847d21f1bfd651499948300f8c4ce45
+      internalID: 2126876092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_91
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 1920
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260cc11d72c2f23498ec134eba414c82
+      internalID: -820773413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_92
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 1920
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564db6862fed8bc4889657d3e73c6228
+      internalID: 1593976781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_93
+      rect:
+        serializedVersion: 2
+        x: 6630
+        y: 1920
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9888a34228d279942921049dd964ef03
+      internalID: -1062492712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_94
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 1920
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9679f71f6fa8b7449504d3b19d5daac
+      internalID: 1683156572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_95
+      rect:
+        serializedVersion: 2
+        x: 7650
+        y: 1920
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b33257d452dea4090b4c293878b0ae
+      internalID: 1152341611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_96
+      rect:
+        serializedVersion: 2
+        x: 8160
+        y: 1920
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cb5a5a8ac592147874e62a809c4c32
+      internalID: 1196822680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_97
+      rect:
+        serializedVersion: 2
+        x: 8670
+        y: 1920
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e7fd964e5a9cc4495c7cc7294fc4ab
+      internalID: -1671832174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_98
+      rect:
+        serializedVersion: 2
+        x: 9180
+        y: 1920
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbb85ea97fd8794bafb4f3d78c65aa8
+      internalID: 1928788205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_99
+      rect:
+        serializedVersion: 2
+        x: 9690
+        y: 1920
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37790a588664fe44ea60c89648792cf7
+      internalID: -999379587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c4b8f0198252c489be716855408365
+      internalID: -258988020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_101
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1280
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64cf21f1edad0144a4e68228af18b20
+      internalID: -1752614895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_102
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1280
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c01912870a859a4ebbbc5443da2e8bb
+      internalID: 505382664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_103
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1280
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268d4fc8a78fc434b8514a0b52cb6d9f
+      internalID: -897107670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_104
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1280
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499d312b06308d442b5b287680d8e6cb
+      internalID: 1948773606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_105
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 1280
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911acf0146e3ec542a19f0ae32956bba
+      internalID: 1618728800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_106
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1280
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1531cb8e53658c04caf138be9d72d9f0
+      internalID: 998785805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_107
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 1280
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d4273d5a219c748b33ca0d1d79e668
+      internalID: -437789392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_108
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 1280
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45b5cf81757abb4d9d562f0b2d2a57e
+      internalID: 1786350538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_109
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 1280
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b2024388512ef45beb25c10bd35591
+      internalID: 1508384910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_110
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 1280
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a300f8281025fd4bab4df536c853dd4
+      internalID: -748616805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_111
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 1280
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45cd57e724e684479ee8aa3810b2c21
+      internalID: -1652252272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_112
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 1280
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b735f0cbc5ab76344bea46d98a489618
+      internalID: -1876002241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_113
+      rect:
+        serializedVersion: 2
+        x: 6630
+        y: 1280
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6276af8ce1b727941922550bb0b2954f
+      internalID: -1941321050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_114
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 1280
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae41c05483742e44a942f4d00db63ef
+      internalID: -1322990310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_115
+      rect:
+        serializedVersion: 2
+        x: 7650
+        y: 1280
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8230167800c815b468297fbd925ef163
+      internalID: 981151039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_116
+      rect:
+        serializedVersion: 2
+        x: 8160
+        y: 1280
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1743de30b2d80164480f0eacf84ea98f
+      internalID: -964410787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_117
+      rect:
+        serializedVersion: 2
+        x: 8670
+        y: 1280
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d575f2065f02d4ba53b3813e37eeec
+      internalID: -1158563744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_118
+      rect:
+        serializedVersion: 2
+        x: 9180
+        y: 1280
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d461d2158afd9749a4ec4a2db69054f
+      internalID: -2044897356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_119
+      rect:
+        serializedVersion: 2
+        x: 9690
+        y: 1280
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741f8fc02c28d2542966d3419cab7393
+      internalID: 896299106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6224bf5b404f5d34eb6d5f5d4c18b010
+      internalID: 1501756264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_121
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 640
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69acd8bda9c5dc438933d15e9c774c6
+      internalID: -595322286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_122
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 640
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa29740853e0e3e4590b2af903043e9f
+      internalID: 1551571711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_123
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 640
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ed009eade99634b810023c2e234d1b
+      internalID: -737191229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_124
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 640
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8b6b566f48db941bc722592d3c5213
+      internalID: -1253452137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_125
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 640
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d9707ae5984c14ebd7e844f5897d26
+      internalID: -1962368033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_126
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 640
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b16823f704bd447a6f492889b01234
+      internalID: 1736856462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_127
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 640
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8373a763ec57b40aaac364075862d2
+      internalID: 70881661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_128
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 640
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f98da6f5a4403341b7171646e0c0d19
+      internalID: -320680677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_129
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 640
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cc70d1346b4f54dad4a1e7631e873f
+      internalID: -766431872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_130
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 640
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2ea00c89f454045b9ee2b3e76714d7
+      internalID: -1618679143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_131
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 640
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b52cae86b048f4c93d18f673fd0d56
+      internalID: -317772040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_132
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 640
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0436abb6afc454a8a190e6ba2f1469
+      internalID: -1019686916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_133
+      rect:
+        serializedVersion: 2
+        x: 6630
+        y: 640
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407bc36af7220984bb694e7c125cdb7a
+      internalID: -1329203643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_134
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 640
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b099f2450da4ae4490f17cf9cb68ea0
+      internalID: 1064333229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_135
+      rect:
+        serializedVersion: 2
+        x: 7650
+        y: 640
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbba5ee4925b3594480eb98518ca2e39
+      internalID: 1459880480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_136
+      rect:
+        serializedVersion: 2
+        x: 8160
+        y: 640
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c001b183b393c644af948cf9228c438
+      internalID: 293991934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_137
+      rect:
+        serializedVersion: 2
+        x: 8670
+        y: 640
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fc819c0421f574484842844ec1ff20
+      internalID: 569779072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_138
+      rect:
+        serializedVersion: 2
+        x: 9180
+        y: 640
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3966b5f4fde1d47b3ea1756f16df34
+      internalID: 1103959994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_139
+      rect:
+        serializedVersion: 2
+        x: 9690
+        y: 640
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857e1d99186c6f440aee9ca273c8ab7c
+      internalID: 1679727478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36fffd34c8a2a045b5c842bb83e2cab
+      internalID: -378292841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_141
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9920340421939814a838298377b34b60
+      internalID: -1698348518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_142
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09539b10a380c94883e2f46e65ac60c
+      internalID: -702122495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_143
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 0
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa99e28afb32ca41a90348ccd946f8d
+      internalID: 1217558235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_144
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7391c1c38af5cc14e89daeecf5372d49
+      internalID: 1128095530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_145
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 0
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bc9ff5f1a28c944b3b738c932acc8a
+      internalID: 557223608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_146
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 0
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccb705044475f2489d372b25529e3e5
+      internalID: -1193808312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_147
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 0
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c58ddafdb316a4caee1eef55918594
+      internalID: -720809583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_148
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 0
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d953f37b2cf32c4b94864914354b9d3
+      internalID: -1752235796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_149
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 0
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a808aab8e0360c14893b2828688ceec1
+      internalID: -1904476494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_150
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 0
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c4dad8bc7aff648ae8153dcf487db5
+      internalID: 110426065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_151
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 0
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfb791e7d219fa4e8fc918e4c7d112a
+      internalID: -1799979685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_152
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 0
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdce7cd838ee272439ccb1bd493b8f2a
+      internalID: -1919477340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_153
+      rect:
+        serializedVersion: 2
+        x: 6630
+        y: 0
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80cab1b715c433499c9023f23c29557
+      internalID: -1305039231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: netherportal_154
+      rect:
+        serializedVersion: 2
+        x: 7140
+        y: 0
+        width: 510
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ede53a345896446beaf76c37804f3b
+      internalID: -865271063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f5e4b99c8c822bb4180ecadaeecab00f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      netherportal_0: -1410832856
+      netherportal_1: -1978541976
+      netherportal_10: 245227504
+      netherportal_100: -258988020
+      netherportal_101: -1752614895
+      netherportal_102: 505382664
+      netherportal_103: -897107670
+      netherportal_104: 1948773606
+      netherportal_105: 1618728800
+      netherportal_106: 998785805
+      netherportal_107: -437789392
+      netherportal_108: 1786350538
+      netherportal_109: 1508384910
+      netherportal_11: -1776897399
+      netherportal_110: -748616805
+      netherportal_111: -1652252272
+      netherportal_112: -1876002241
+      netherportal_113: -1941321050
+      netherportal_114: -1322990310
+      netherportal_115: 981151039
+      netherportal_116: -964410787
+      netherportal_117: -1158563744
+      netherportal_118: -2044897356
+      netherportal_119: 896299106
+      netherportal_12: -1569455835
+      netherportal_120: 1501756264
+      netherportal_121: -595322286
+      netherportal_122: 1551571711
+      netherportal_123: -737191229
+      netherportal_124: -1253452137
+      netherportal_125: -1962368033
+      netherportal_126: 1736856462
+      netherportal_127: 70881661
+      netherportal_128: -320680677
+      netherportal_129: -766431872
+      netherportal_13: -1876891234
+      netherportal_130: -1618679143
+      netherportal_131: -317772040
+      netherportal_132: -1019686916
+      netherportal_133: -1329203643
+      netherportal_134: 1064333229
+      netherportal_135: 1459880480
+      netherportal_136: 293991934
+      netherportal_137: 569779072
+      netherportal_138: 1103959994
+      netherportal_139: 1679727478
+      netherportal_14: 1857122403
+      netherportal_140: -378292841
+      netherportal_141: -1698348518
+      netherportal_142: -702122495
+      netherportal_143: 1217558235
+      netherportal_144: 1128095530
+      netherportal_145: 557223608
+      netherportal_146: -1193808312
+      netherportal_147: -720809583
+      netherportal_148: -1752235796
+      netherportal_149: -1904476494
+      netherportal_15: 250565457
+      netherportal_150: 110426065
+      netherportal_151: -1799979685
+      netherportal_152: -1919477340
+      netherportal_153: -1305039231
+      netherportal_154: -865271063
+      netherportal_155: -609108683
+      netherportal_156: -1980336478
+      netherportal_157: -1590565487
+      netherportal_158: -1585142499
+      netherportal_159: 1642436769
+      netherportal_16: 196337999
+      netherportal_160: 634707887
+      netherportal_17: -1952372247
+      netherportal_18: -505496587
+      netherportal_19: 875056231
+      netherportal_2: -812031489
+      netherportal_20: -360146018
+      netherportal_21: -865236678
+      netherportal_22: 816519804
+      netherportal_23: -608013991
+      netherportal_24: 1992668975
+      netherportal_25: -989247728
+      netherportal_26: -497709626
+      netherportal_27: 34114477
+      netherportal_28: 619823007
+      netherportal_29: 1152733675
+      netherportal_3: -794988857
+      netherportal_30: 46382155
+      netherportal_31: 1073680145
+      netherportal_32: 2129186472
+      netherportal_33: -340512102
+      netherportal_34: 363989584
+      netherportal_35: -1357112013
+      netherportal_36: 156704437
+      netherportal_37: 689859416
+      netherportal_38: -707835622
+      netherportal_39: 518856485
+      netherportal_4: 1748694231
+      netherportal_40: -1563950587
+      netherportal_41: -2055850205
+      netherportal_42: -1186602831
+      netherportal_43: 1879277250
+      netherportal_44: 298122133
+      netherportal_45: 622249786
+      netherportal_46: -185461044
+      netherportal_47: 706329158
+      netherportal_48: -1928902873
+      netherportal_49: -1700208549
+      netherportal_5: 1095214380
+      netherportal_50: 506541934
+      netherportal_51: -1384001423
+      netherportal_52: 1714206734
+      netherportal_53: -934738254
+      netherportal_54: 491283443
+      netherportal_55: 1280733066
+      netherportal_56: -2049287276
+      netherportal_57: -25594519
+      netherportal_58: 1255424295
+      netherportal_59: 1968932083
+      netherportal_6: 916288675
+      netherportal_60: 257996504
+      netherportal_61: -1257065806
+      netherportal_62: -2010203563
+      netherportal_63: -822032280
+      netherportal_64: -828499405
+      netherportal_65: -46730168
+      netherportal_66: -1388733898
+      netherportal_67: 898241495
+      netherportal_68: -1983257437
+      netherportal_69: 2052164526
+      netherportal_7: -1580539165
+      netherportal_70: -1386483510
+      netherportal_71: -29224483
+      netherportal_72: 2039259863
+      netherportal_73: -31870398
+      netherportal_74: 1615897146
+      netherportal_75: -1094537345
+      netherportal_76: 25793119
+      netherportal_77: 1717405847
+      netherportal_78: -1282681714
+      netherportal_79: 109995051
+      netherportal_8: -680996226
+      netherportal_80: 2002592050
+      netherportal_81: 1001313582
+      netherportal_82: -2114465915
+      netherportal_83: -1574680923
+      netherportal_84: 1848580308
+      netherportal_85: -573001224
+      netherportal_86: -1980947198
+      netherportal_87: -672451667
+      netherportal_88: -826906229
+      netherportal_89: -5449509
+      netherportal_9: 356182939
+      netherportal_90: 2126876092
+      netherportal_91: -820773413
+      netherportal_92: 1593976781
+      netherportal_93: -1062492712
+      netherportal_94: 1683156572
+      netherportal_95: 1152341611
+      netherportal_96: 1196822680
+      netherportal_97: -1671832174
+      netherportal_98: 1928788205
+      netherportal_99: -999379587
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
